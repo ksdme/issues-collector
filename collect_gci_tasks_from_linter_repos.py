@@ -33,7 +33,7 @@ def select_suitable(issues, keywords):
 
     if len(norm_issue_labels & norm_labels) > 0:
       yield issue
-      break
+      continue
 
     norm_keywords = set(map(str.lower, desc_keywords))
     norm_text = str.lower(issue["title"] + ' ' + issue["description"])
@@ -41,7 +41,7 @@ def select_suitable(issues, keywords):
 
     if len(norm_keywords & norm_text) > 0:
       yield issue
-      break
+      continue
 
 def main(github, config):
   all_repo_issues = {}
