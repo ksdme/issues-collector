@@ -1,0 +1,57 @@
+{
+  "keywords": {
+    "labels": [
+      "easy",
+      "easy fix",
+      "first issue",
+      "good first issue",
+      "newcomer",
+      "help wanted",
+      "beginner",
+      "up-for-grabs",
+      "beginner-friendly",
+      "low-hanging fruit",
+      "hacktoberfest"
+    ],
+
+    "desc": [
+      "easy fix",
+      "documentation",
+      "README",
+      "pep8",
+      "simple"
+    ]
+  },
+
+  "targets": [
+    "https://github.com/vfaronov/httpolice",
+    "https://github.com/myint/autoflake",
+    "https://github.com/hhatto/autopep8",
+    "https://github.com/PyCQA/bandit",
+    "https://github.com/myint/cppclean",
+    "https://github.com/theandrewdavis/cpplint",
+    "https://github.com/willkg/dennis",
+    "https://github.com/jimo1001/docutils-ast-writer",
+    "https://github.com/myint/eradicate",
+    "https://github.com/retr0h/git-url-parse",
+    "https://github.com/sk-/html-linter",
+    "https://github.com/timothycrosley/isort",
+    "https://github.com/myint/language-check",
+    "https://github.com/lxml/lxml",
+    "https://github.com/mementoweb/py-memento-client",
+    "https://github.com/datapublica/munkres",
+    "https://github.com/amperser/proselint",
+    "https://github.com/PyCQA/pycodestyle",
+    "https://github.com/PyCQA/pydocstyle",
+    "https://github.com/PyCQA/pyflakes",
+    "https://github.com/PyCQA/pylint",
+    "https://github.com/regebro/pyroma",
+    "https://github.com/rubik/radon",
+    "https://github.com/twolfson/restructuredtext-lint",
+    "https://github.com/myint/rstcheck",
+    "https://github.com/pyupio/safety",
+    "https://github.com/myint/scspell",
+    "https://github.com/Kuniwak/vint",
+    "https://github.com/jendrikseipp/vulture"
+  ]
+}
